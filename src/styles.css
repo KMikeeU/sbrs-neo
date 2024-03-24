@@ -1,0 +1,17 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+:root {
+  @apply text-white bg-zinc-800;
+}
+
+input, button {
+  @apply bg-zinc-900 py-2 px-4;
+}
+
