@@ -1,7 +1,10 @@
-# Tauri + Svelte + Typescript
+# SBRS-Neo
+Toy implementation of a simple soundboard using Rust with Tauri and Svelte
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+## Features
+- Add/Remove and play sounds
+- Persists data between sessions
 
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+## Coming soon?
+- Change sound device
+- MIDI maybe?
